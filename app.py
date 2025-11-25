@@ -23,7 +23,7 @@ st.markdown("---")
 # --- BARRA LATERAL (SIDEBAR) ---
 with st.sidebar:
     # Logo simulado (puedes cambiar este link por el de tu logo real más adelante)
-    st.image("https://www.management360.com.ar/wp-content/uploads/2021/04/logo-m360.png", width=200)
+    st.image("https://www.management360.com.ar/web/image/website/2/logo/MANAGEMENT360?unique=0bc41af", width=200)
     st.header("Panel de Control")
     st.info("Este diagnóstico analiza 4 pilares clave de su empresa.")
     cliente = st.text_input("Nombre de su Empresa", "Mi Empresa S.A.")
